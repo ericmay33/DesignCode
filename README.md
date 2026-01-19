@@ -1,2 +1,6 @@
 # DesignCode
-Practice object-oriented design, backend and frontend, system and database design, with real production scenarios.
+
+DesignCode
+The interview prep platform for backend engineers.
+100+ real design problems from SpaceX, Stripe, and Meta.
+Not just algorithms—build actual systems.
