@@ -1,6 +1,6 @@
 # DesignCode
 
-## DesignCode
+DesignCode
 The interview prep platform for backend engineers.
 
 100+ real design problems from SpaceX, Stripe, and Meta.
