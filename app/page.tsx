@@ -64,13 +64,19 @@ export default function Home() {
 				<p className="text-gray-600 mb-8">Design it. Code it. Ship it.</p>
 
 				<div className="bg-gray-50 p-6 rounded-lg mb-6">
-					<h2 className="text-xl font-semibold mb-4">Sprint 0 Setup</h2>
+					<h2 className="text-xl font-semibold mb-4">Sprint 0 Setup ✅</h2>
 					<div className="space-y-2 text-sm">
 						<p>✅ Next.js 14 + TypeScript</p>
 						<p>✅ Tailwind CSS</p>
 						<p>✅ Supabase Connected</p>
 						<p>✅ Piston Execution Engine (Python & JavaScript)</p>
-						<p>⏳ Vercel Deploy (next)</p>
+						<p>✅ Deployed to Vercel</p>
+						<p>✅ Auto-deploy on git push</p>
+					</div>
+					<div className="mt-4 pt-4 border-t border-gray-200">
+						<p className="text-sm font-semibold text-green-600">
+						🎉 Infrastructure Complete - Ready for Test Harness!
+						</p>
 					</div>
 				</div>
 
