@@ -6,7 +6,7 @@ Practice object-oriented design with real production scenarios. 100+ curated pro
 
 ## 🚀 Live Demo
 
-[https://designcode-xxx.vercel.app](https://designcode-xxx.vercel.app) _(replace with your actual URL)_
+[ COMING SOON! ]
 
 ## Tech Stack
 
@@ -60,32 +60,6 @@ Required variables (see `.env.example`):
 
 - `NEXT_PUBLIC_SUPABASE_URL` - Your Supabase project URL
 - `NEXT_PUBLIC_SUPABASE_ANON_KEY` - Your Supabase anon/publishable key
-
-## Project Structure
-```
-designcode/
-├── app/
-│   ├── api/
-│   │   ├── execute/         # Piston code execution
-│   │   └── test-supabase/   # Supabase connection test
-│   ├── layout.tsx
-│   └── page.tsx             # Homepage with tests
-├── lib/
-│   └── supabase/            # Supabase client utilities
-├── .env.local               # Your secrets (gitignored)
-├── .env.example             # Template
-└── README.md
-```
-
-## Roadmap
-
-- [x] **Sprint 0:** Foundation & Infrastructure ✅
-- [ ] **Sprint 1:** Ugly MVP (5 problems)
-- [ ] **Sprint 2:** Platform Features (Auth, Dashboard)
-- [ ] **Sprint 3:** Polish + Content (15 problems)
-- [ ] **Sprint 4:** Scale Content (30 problems)
-- [ ] **Sprint 5:** Scale to 100 + Harden
-- [ ] **Sprint 6:** Launch
 
 ## Supported Languages
 
